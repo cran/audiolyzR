@@ -1,0 +1,13 @@
+aadf5a140e09547808ba0ea434212496 *DESCRIPTION
+73a60b1f6e48b141a3e73e2cd4f24b92 *NAMESPACE
+b11b31c18e0c2851f7fc65a763bc496e *R/audioHist.R
+0d1737a61c319164ef45449f9c5cf0a7 *R/audioScatter.R
+97d1b5aae209e20a0999539e738cf71d *R/audioSplom.R
+fe28f9c2c8333140ae7a449b67fe1819 *R/audiolyzRcheck.R
+8705dd12c3798dc25609d78e6863cbd1 *R/matricize.R
+7ee00b626d0006e3d698039093a25a01 *R/panel.audiolyzR.R
+329034c7127028ff53e054385c7938ad *R/systemRun.R
+08a0f1e332ac381e78cf41290de92963 *man/audioHist.Rd
+eec05ed87e23b6555f10f259b90d4990 *man/audioScatter.Rd
+56fcfc25106aa37be89e07e5f2521cbf *man/audioSplom.Rd
+338064f856396a91e2c3f820e6f76da5 *man/audiolyzR-package.Rd
